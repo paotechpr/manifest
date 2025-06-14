@@ -1,8 +1,8 @@
 {
   "name": "MAIO App",
   "short_name": "MAIO",
-  "theme_color": "#000",
-  "background_color": "black",
+  "theme_color": "#131314",
+  "background_color": "#131314",
   "display": "standalone",
   "Scope": "/",
   "start_url": "/maio-app/login",
