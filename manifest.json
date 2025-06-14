@@ -1,7 +1,7 @@
 {
   "name": "MAIO App",
   "short_name": "MAIO",
-  "theme_color": "#FF6600",
+  "theme_color": "#000000",
   "background_color": "#000000",
   "display": "standalone",
   "Scope": "/",
