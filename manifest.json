@@ -1,11 +1,11 @@
 {
-  "name": "MAIO App",
-  "short_name": "MAIO",
+  "name": "OX Docks",
+  "short_name": "OX Docks",
   "theme_color": "#131314",
   "background_color": "#131314",
   "display": "standalone",
   "Scope": "/",
-  "start_url": "/maio-app/login",
+  "start_url": "/ox-docks/login",
   "icons": [
     {
       "src": "https://ucarecdn.com/554d3ecc-2271-462d-bbf1-c4f0a566d300/icon72x72.png",
